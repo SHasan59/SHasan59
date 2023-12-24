@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samith</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shasan59" alt="shasan59" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shasan59&show_icons=true&locale=en&layout=compact" alt="shasan59" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shasan59&show_icons=true&theme=dark&locale=en" alt="shasan59" /></p>
+
