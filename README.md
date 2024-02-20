@@ -11,7 +11,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shasan59&show_icons=true&locale=en&layout=compact" alt="shasan59" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shasan59&show_icons=true&locale=en&layout=compact" alt="shasan59" /></p>
+<img alight="left" src="https://leetcode-badge-showcase.vercel.app/api?username=SHasan5903&theme=tokyonight" alt="LeetCode Badges"/>
 
 <br>
 <br>
