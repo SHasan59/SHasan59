@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header" />
+
+
 <h1 align="center">Hi, I'm Samith</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
@@ -31,6 +34,7 @@
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
 
 
 
