@@ -46,7 +46,7 @@
 
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shasan59" /></p>
-<img alight="left" src="https://leetcode-badge-showcase.vercel.app/api?username=SHasan5903&theme=tokyonight" alt="LeetCode Badges"/>
+<img alight="left" src="https://leetcode-badge-showcase.vercel.app/api?username=SHasan59&theme=tokyonight" alt="LeetCode Badges"/>
 
 
 <div align="center">
