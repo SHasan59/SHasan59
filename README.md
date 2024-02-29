@@ -35,8 +35,6 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
-<img src="">
-<img src="">
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -46,7 +44,10 @@
 
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shasan59" /></p>
-<img alight="left" src="https://leetcode-badge-showcase.vercel.app/api?username=SHasan59&theme=tokyonight" alt="LeetCode Badges"/>
+<div>
+  <img style="float: left; height: 400px;" src="https://leetcode-badge-showcase.vercel.app/api?username=SHasan59&theme=tokyonight" alt="LeetCode Badges"/>
+  <img style="float: right; height: 400px;" src="https://leetcard.jacoblin.cool/SHasan59?theme=nord&font=Poiret%20One&ext=heatmap"/>
+</div>
 
 
 <div align="center">
