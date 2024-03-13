@@ -39,8 +39,8 @@
 <a href="https://www.linkedin.com/in/samith-hasan/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/samith-hasan/" /></a>
 </p>
 
-
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shasan59" /></p>
+<h3 align="left">LeetCode:</h3>
 <div>
   <img style="float: left; width: 0px;  height: 300px;" src="https://leetcode-badge-showcase.vercel.app/api?username=SHasan59&theme=tokyonight" alt="LeetCode Badges"/>
   <img style="float: right; width: 500px; height: 300px;" src="https://leetcard.jacoblin.cool/SHasan59?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
