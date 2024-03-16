@@ -52,7 +52,7 @@
 
 <h2> My contributions</h2>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SHasan59/SHasan59/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="600" height="600">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="1000" height="600">
 
 
 
