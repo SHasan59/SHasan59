@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header" />
 <h1 align="center">Hi, Im Samith</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -59,7 +58,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 
 
 
