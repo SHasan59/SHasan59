@@ -35,13 +35,14 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg">
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samith-hasan/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/samith-hasan/" /></a>
     <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"/>
-  <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg"/>
+]
 </p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shasan59" /></p>
