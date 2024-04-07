@@ -46,7 +46,7 @@
 </p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shasan59" /></p>
-<p align="left"> <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="500" height="500"> </p>
+<p> <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="300" height="200"> </p>
 
 <h3 align="left">LeetCode:</h3>
 <div>
