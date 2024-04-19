@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header" />
 <h1 align="center">Hi, Im Samith</h1>
 <h3 align="center">Software Developer</h3>
+<h3 align="center">I just be building plastic robots</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
