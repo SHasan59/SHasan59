@@ -2,9 +2,15 @@
 <h1 align="center">Hi, Im Samith</h1>
 <h3 align="center">Software Developer</h3>
 <h3 align="center">I just be building plastic robots</h3>
+<img src"https://github.com/SHasan59/SHasan59/assets/121329046/62fc79f6-124b-4af0-bb3a-9ace7131d526"/>
+
+
+
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
+    
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
@@ -55,6 +61,8 @@
   <img style="float: right; width: 300px; height: 300px;" src="https://leetcard.jacoblin.cool/SHasan59?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
 </div>
 
+
+<img src="https://github.com/SHasan59/SHasan59/assets/121329046/85c9226c-f37c-4429-9fc1-5c7969f6e4b9" alt="mobile-suit-gundam-gundam" width="400" height="300">
 <img  style="width: 300px;  height: 300px;" src=https://github.com/SHasan59/SHasan59/assets/121329046/43ef3273-114b-4f9a-b490-4b418a34a813 />
 
 <div align="center">
