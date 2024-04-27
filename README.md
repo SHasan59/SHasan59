@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header" />
 <h1 align="center">Hi, Im Samith</h1>
 <h3 align="center">Software Engineer</h3>
-<h3 align="center">I just be building plastic robots</h3>
+<h3 align="center">I just be building plastic robots （￣︶￣）↗　</h3>
 <img src"https://github.com/SHasan59/SHasan59/assets/121329046/62fc79f6-124b-4af0-bb3a-9ace7131d526"/>
 
 
