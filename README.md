@@ -52,8 +52,8 @@
 <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg"/>
 </p>
 
-<p><img  src="https://github-readme-stats-nine-ruby-49.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shasan59" /></p>
-<img src="https://github-readme-stats-nine-ruby-49.vercel.app/api?username=shasan59&include_all_commits=true&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=SHasan59"/>
+<p><img  src="https://github-readme-stats-chi-navy.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shasan59" /></p>
+<img src="https://github-readme-stats-chi-navy.vercel.app/api?username=shasan59&include_all_commits=true&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=SHasan59"/>
 <p> <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="600" height=500"> </p>
 
 <h3 align="left">LeetCode:</h3>
