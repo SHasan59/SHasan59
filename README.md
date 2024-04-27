@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header" />
 <h1 align="center">Hi, Im Samith</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <h3 align="center">I just be building plastic robots</h3>
 <img src"https://github.com/SHasan59/SHasan59/assets/121329046/62fc79f6-124b-4af0-bb3a-9ace7131d526"/>
 
@@ -69,7 +69,7 @@
 
 
 <h2> My contributions</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasan59&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasan59&theme=github-compact&bg_color=20232a&hide_border=true" width="80%"/>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SHasan59/SHasan59/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 
 
