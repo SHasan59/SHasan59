@@ -63,8 +63,8 @@
 </div>
 
 
-<img src="https://github.com/SHasan59/SHasan59/assets/121329046/85c9226c-f37c-4429-9fc1-5c7969f6e4b9" alt="mobile-suit-gundam-gundam" width="400" height="300">
-<img  style="width: 300px;  height: 300px;" src=https://github.com/SHasan59/SHasan59/assets/121329046/43ef3273-114b-4f9a-b490-4b418a34a813 />
+<!--<img src="https://github.com/SHasan59/SHasan59/assets/121329046/85c9226c-f37c-4429-9fc1-5c7969f6e4b9" alt="mobile-suit-gundam-gundam" width="400" height="300">
+<img  style="width: 300px;  height: 300px;" src=https://github.com/SHasan59/SHasan59/assets/121329046/43ef3273-114b-4f9a-b490-4b418a34a813 /> -->
 
 <div align="center">
 
