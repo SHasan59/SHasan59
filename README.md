@@ -78,7 +78,14 @@
 
 
 <div style="border-radius: 50px; overflow: hidden;">
-    <img src="https://holopin.me/shasan59" alt="An image of @shasan59's Holopin badges, which is a link to view their full Holopin profile">
+<details>
+  <summary>Holopin</summary>
+  <br>
+   <img src="https://holopin.me/shasan59" alt="An image of @shasan59's Holopin badges, which is a link to view their full Holopin profile">
+  
+</details>
+
+   
 </div>
 
 
