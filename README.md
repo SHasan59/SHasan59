@@ -50,6 +50,7 @@
 <a href="https://www.linkedin.com/in/samith-hasan/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/samith-hasan/" /></a>
     <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"/>
 <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg"/>
+<img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg"/>
 </p>
 
 <p><img  src="https://github-readme-stats-chi-navy.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shasan59" /></p>
