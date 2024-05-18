@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header" />
 <h1 align="center">Hi, Im Samith</h1>
 <h3 align="center">Software Engineer</h3>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">
 
 
 
