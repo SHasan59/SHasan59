@@ -61,7 +61,7 @@
 <img src="https://github-readme-stats-chi-navy.vercel.app/api?username=shasan59&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=SHasan59"/>
 <p> <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="600" height=500"> </p>
 
-<h3 align="left">LeetCode:</h3>
+<h3 align="left"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode2.svg"></h3>
 <div>
   <img style="float: left; width: 300px;  height: 300px;" src="https://leetcode-badge-showcase.vercel.app/api?username=SHasan59&theme=tokyonight" alt="LeetCode Badges"/>
   <img style="float: right; width: 400px; height: 300px;" src="https://leetcard.jacoblin.cool/SHasan59?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
