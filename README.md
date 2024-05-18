@@ -45,6 +45,8 @@
 <a href="https://reactnative.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg"></a>
 <a href="https://vitejs.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg"></a>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
 
 </p>
 
@@ -54,6 +56,9 @@
 <a href="mailto:hasan.samith@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"></a>
 <a href="mailto:samith.hasan50@bcmail.cuny.edu"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg"></a>
 <img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg"/>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg">
+
 </p>
 
 <h3 align="left">Activity:</h3>
