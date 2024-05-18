@@ -49,8 +49,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samith-hasan/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/samith-hasan/" /></a>
-    <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"/>
-<img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg"/>
+<a href="mailto:hasan.samith@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"></a>
+<a href="mailto:samith.hasan50@bcmail.cuny.edu"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg"></a>
 <img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg"/>
 </p>
 
