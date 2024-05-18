@@ -49,6 +49,7 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
 <img src="ttps://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
 
 </p>
 
