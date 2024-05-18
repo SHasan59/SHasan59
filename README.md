@@ -47,6 +47,7 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
+<img src="ttps://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
 
 </p>
 
