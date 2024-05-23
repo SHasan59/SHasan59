@@ -89,7 +89,7 @@
 <h2> My contributions</h2>
 
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SHasan59/SHasan59/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasan59&theme=tokyo-night&bg_color=000000&hide_border=true" width="100%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasan59&theme=tokyo-night&bg_color=FFFFFF&hide_border=true" width="100%"/>
 
 
 
