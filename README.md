@@ -77,8 +77,8 @@ SHasan5903
 <details>
 <h3 align="left"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode2.svg"></h3>
 <div>
-  <img style="float: left; width: 300px;  height: 300px;" src="https://leetcode-badge-showcase.vercel.app/api?username=SHasan59&theme=tokyonight" alt="LeetCode Badges"/>
-  <img style="float: right; width: 400px; height: 300px;" src="https://leetcard.jacoblin.cool/SHasan59?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
+  <img style="float: left; width: 350px;  height: 400px;" src="https://leetcode-badge-showcase.vercel.app/api?username=SHasan59&theme=tokyonight" alt="LeetCode Badges"/>
+  <img style="float: right; width: 600px; height: 400px;" src="https://leetcard.jacoblin.cool/SHasan59?theme=dark&font=Noto%20Sans%20New%20Tai%20Lue&ext=heatmap"/>
 </div>
 </details>
 
