@@ -62,7 +62,6 @@
 </p>
 
 <img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg"/>
-SHasan5903
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch1.svg">
   SW-7733-3817-8879
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg"> SHasan7252
