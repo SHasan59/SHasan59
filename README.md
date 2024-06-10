@@ -61,7 +61,7 @@
 <a href="mailto:samith.hasan50@bcmail.cuny.edu"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg"></a>
 </p>
 
-<img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg"  href="https://playstation-shasan.vercel.app/"/>
+<a  href="https://playstation-shasan.vercel.app/" ><img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg" /></a>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch1.svg">
   SW-7733-3817-8879
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg"> SHasan7252
