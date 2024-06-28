@@ -135,21 +135,18 @@
 
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SHasan59/SHasan59/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 
-<details>
- <summary>Contrib graph</summary>
+
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasan59&theme=tokyo-night&bg_color=00000&hide_border=true" width="100%"/>
 
-</details>
 
 
 
-<div style="border-radius: 50px; overflow: hidden;">
-<details>
-  <summary>Holopin</summary>
+
+
   <br>
    <img src="https://holopin.me/shasan59" alt="An image of @shasan59's Holopin badges, which is a link to view their full Holopin profile">
   
-</details>
+
 
    
 </div>
