@@ -53,7 +53,7 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg">
 
 
-
+<!--
 <p align="left">
   <a href="https://axios-http.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg"></a>
   <a href="https://www.android.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg"></a>
@@ -95,7 +95,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg">
 </p>
-
+-->
 
 </p>
 
