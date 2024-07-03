@@ -51,6 +51,8 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg">
 
 
 <!--
