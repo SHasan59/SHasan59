@@ -117,8 +117,8 @@
 
 
 <p style="display: inline-block;">
-  <img  height=200 src="https://github-readme-stats-chi-navy.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=400&langs_count=8&hide_border=true&border_radius=10&hide=jupyter%20notebook" alt="shasan59" />
-   <img  height=200 src="https://github-readme-stats-chi-navy.vercel.app/api?username=shasan59&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=SHasan59&hide=commits&show=prs_merged&hide_border=true&card_width=400" />
+  <img  height=170 src="https://github-readme-stats-chi-navy.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=400&langs_count=8&hide_border=true&border_radius=10&hide=jupyter%20notebook" alt="shasan59" />
+   <img  height=170 src="https://github-readme-stats-chi-navy.vercel.app/api?username=shasan59&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=SHasan59&hide=commits&show=prs_merged&hide_border=true&card_width=400&border_radius=10" />
 </p>
 
 
