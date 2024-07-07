@@ -116,9 +116,13 @@
 <h3 align="left">Activity:</h3>
 
 
-<p><img  src="https://github-readme-stats-chi-navy.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=400&langs_count=8&hide_border=true&border_radius=10&hide=jupyter%20notebook" alt="shasan59"  /></p>
+<p style="display: inline-block;">
+  <img src="https://github-readme-stats-chi-navy.vercel.app/api/top-langs?username=shasan59&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=400&langs_count=8&hide_border=true&border_radius=10&hide=jupyter%20notebook" alt="shasan59" />
+   <img src="https://github-readme-stats-chi-navy.vercel.app/api?username=shasan59&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=SHasan59&hide=commits&show=prs_merged&hide_border=true&card_width=400" />
+</p>
 
-<img src="https://github-readme-stats-chi-navy.vercel.app/api?username=shasan59&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=SHasan59&hide=commits&show=prs_merged&hide_border=true&card_width=400"/>
+
+
 <!--
 <p> <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="600" height=500"> </p>
 -->
