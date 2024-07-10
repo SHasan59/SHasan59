@@ -53,6 +53,8 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg">
 
 
 <!--
@@ -96,6 +98,8 @@
   <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"></a>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg">
 </p>
 -->
 
