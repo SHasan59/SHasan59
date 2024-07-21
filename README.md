@@ -147,10 +147,10 @@
 
 
 
-  <br>
+<!---  <br>
    <img src="https://holopin.me/shasan59" alt="An image of @shasan59's Holopin badges, which is a link to view their full Holopin profile">
   
-
+-->
 
    
 </div>
