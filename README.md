@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F8B195,50:c779d0,100:9999FF" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2EA1D4&random=false&width=427&lines=Hi%2C+I'm+Samith+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7FF&random=false&width=427&lines=Hi%2C+I'm+Samith+" alt="Typing SVG" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">
 
 
