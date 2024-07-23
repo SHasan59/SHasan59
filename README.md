@@ -43,6 +43,7 @@
 <a href="https://www.microsoft.com/en-us/windows"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg"></a>
 <a href="https://reactnative.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg"></a>
 <a href="https://vitejs.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg"></a>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
