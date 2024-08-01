@@ -59,7 +59,6 @@
   <img src="https://visitcount.itsvg.in/api?id=SHasan59&label=Profile%20Views&color=9&icon=2&pretty=true" />
 
 
-
 <!--
 <p align="left">
   <a href="https://axios-http.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg"></a>
@@ -118,6 +117,8 @@
 <a  href="https://playstation-shasan.vercel.app/" ><img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg" /></a>
  <a  href="https://nintendo-shasan.vercel.app/" > <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch1.svg"></a>
 <a href="https://xbox-shasan.vercel.app/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg"></a>
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin3.svg"/>
 
 
 <h3 align="left">Activity:</h3>
