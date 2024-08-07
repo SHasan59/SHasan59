@@ -8,7 +8,7 @@
 
 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
 <a href="https://vercel.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"></a>
 <a href="https://www.mongodb.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg"></a>
