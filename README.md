@@ -109,19 +109,7 @@
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samith-hasan/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/samith-hasan/" /></a>
-<a href="mailto:hasan.samith@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"></a>
-<a href="mailto:samith.hasan50@bcmail.cuny.edu"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg"></a>
-</p>
 
-<a  href="https://playstation-shasan.vercel.app/" ><img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg" /></a>
- <a  href="https://nintendo-shasan.vercel.app/" > <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch1.svg"></a>
-<a href="https://xbox-shasan.vercel.app/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg"></a>
-<a href="https://steam-shasan.vercel.app/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg"/></a>
-
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin3.svg"/>
 
 
 <h3 align="left">Activity:</h3>
@@ -161,8 +149,23 @@
    
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/samith-hasan/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/samith-hasan/" /></a>
+<a href="mailto:hasan.samith@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"></a>
+<a href="mailto:samith.hasan50@bcmail.cuny.edu"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg"></a>
+</p>
+
+<a  href="https://playstation-shasan.vercel.app/" ><img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PlayStation/playstation1.svg" /></a>
+ <a  href="https://nintendo-shasan.vercel.app/" > <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch1.svg"></a>
+<a href="https://xbox-shasan.vercel.app/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg"></a>
+<a href="https://steam-shasan.vercel.app/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg"/></a>
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin3.svg"/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=100:3399FF,0:33FF99&section=footer" />
+
 
 
 
