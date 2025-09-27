@@ -51,8 +51,6 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
-  <img src="https://visitcount.itsvg.in/api?id=SHasan59&label=Profile%20Views&color=9&icon=2&pretty=true" />
-  
 
 
 <!--
